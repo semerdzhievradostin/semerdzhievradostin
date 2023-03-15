@@ -4,7 +4,7 @@
 
 
 
-- :telescope: I’m working as a DevOps oriented L2 Technical Support Engineer.
+- :telescope: Experienced(5 years) DevOps oriented L2 Technical Support Engineer.
 
 - :seedling: Exploring Python, scripting,  DevOps practices, configuration and infrastructure management.
 
