@@ -8,7 +8,7 @@
 
 - :seedling: Exploring Python, scripting,  DevOps practices, configuration and infrastructure management.
 
-- :zap: Currently doing 100 days of code in Python.
+- :zap: Currently doing 100 days of code in Python: - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-repository-orange?style=flat&logo=Linkedin&logoColor=white)](github.com/semerdzhievradostin/Python)
 
 - ### :hammer_and_wrench: Languages and Tools : <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
